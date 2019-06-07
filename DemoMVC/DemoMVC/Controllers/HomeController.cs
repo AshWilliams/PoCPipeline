@@ -9,8 +9,7 @@ namespace DemoMVC.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {
-            esto no va a funcionar
+        {            
             return View();
         }
 
